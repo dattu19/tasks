@@ -1,0 +1,9 @@
+name:dattu
+
+native palce:hyd
+
+job role:devops engg
+
+company:cts
+
+
